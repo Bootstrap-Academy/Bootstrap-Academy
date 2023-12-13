@@ -24,5 +24,38 @@ There is also a public test instance that can be used for development and testin
 - Admin dashboard: https://bootstrap-academy-admin.pages.dev/ ([develop](https://github.com/Bootstrap-Academy/admin-dashboard/tree/develop) branch of [admin-dashboard](https://github.com/Bootstrap-Academy/admin-dashboard))
 - API documentation: https://api-test.bootstrap.academy/
 
+
+# Contributor Payments
+
+## Bounty System
+
+We offer contributors the opportunity to earn payments through our bounty system. Each ticket in our platform specifies a bounty amount.
+
+### Earning Real Money
+
+If you are eligible to create invoices and have registered your business, you may opt to receive your bounty in real money. In this case, the bounty amount is considered in Euro-Cents.
+You have to contact me first and I have to promise the amount before you start at hallo@bootstrap.academy.
+
+#### Conditions for Real Money Payments
+
+- **Budget Availability**: Real money payments are subject to budget availability. 
+- **Invoice Requirement**: Contributors must provide a valid invoice to receive payment.
+- **Acknowledgement**: Cedric Mössner will need to accept your offer first. This will result in a change here and an assigned ticket.
+
+## Bounty Availability
+
+Below is a table indicating the current status of bounties:
+
+| Bounty Status    | Amount (Euro-Cents) |
+| ---------------- | ------------------- |
+| Bounty Available | 0                   |
+| Bounty Promised  | 0                   |
+
+> **Note**: The table is regularly updated to reflect the current budget situation. Please check back for the latest information.
+
+## Deductions
+
+To avoid submissions with bad code which result in high review efforts for us, every time you commit gets rejected we will reduce the bounty by 2500.
+
 ## Contact
 If you have any questions, please feel free to [create a new discussion](https://github.com/orgs/Bootstrap-Academy/discussions/new/choose) here on GitHub, or contact us via email (hallo@bootstrap.academy) or Discord (https://the-morpheus.de/discord.html).
