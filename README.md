@@ -22,7 +22,7 @@ There is also a public test instance that can be used for development and testin
 
 - Frontend: https://bootstrap-academy-frontend.pages.dev/ ([develop](https://github.com/Bootstrap-Academy/frontend/tree/develop) branch of [frontend](https://github.com/Bootstrap-Academy/frontend))
 - Admin dashboard: https://bootstrap-academy-admin.pages.dev/ ([develop](https://github.com/Bootstrap-Academy/admin-dashboard/tree/develop) branch of [admin-dashboard](https://github.com/Bootstrap-Academy/admin-dashboard))
-- API documentation: https://api-test.bootstrap.academy/
+- API documentation: https://api.test.bootstrap.academy/
 
 
 # Contributor Payments
