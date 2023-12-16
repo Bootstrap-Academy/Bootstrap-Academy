@@ -20,9 +20,11 @@ The public production instance is available on https://bootstrap.academy/.
 ## Test Instance
 There is also a public test instance that can be used for development and testing purposes.
 
-- Frontend: https://bootstrap-academy-frontend.pages.dev/ ([develop](https://github.com/Bootstrap-Academy/frontend/tree/develop) branch of [frontend](https://github.com/Bootstrap-Academy/frontend))
-- Admin dashboard: https://bootstrap-academy-admin.pages.dev/ ([develop](https://github.com/Bootstrap-Academy/admin-dashboard/tree/develop) branch of [admin-dashboard](https://github.com/Bootstrap-Academy/admin-dashboard))
+- Frontend: https://test.bootstrap.academy/ ([develop](https://github.com/Bootstrap-Academy/frontend/tree/develop) branch of [frontend](https://github.com/Bootstrap-Academy/frontend))
+- Admin dashboard: https://admin.test.bootstrap.academy/ ([develop](https://github.com/Bootstrap-Academy/admin-dashboard/tree/develop) branch of [admin-dashboard](https://github.com/Bootstrap-Academy/admin-dashboard))
 - API documentation: https://api.test.bootstrap.academy/
+
+If you need an admin account to develop or test a feature, ping @Defelo on GitHub or Discord.
 
 
 # Contributor Payments
