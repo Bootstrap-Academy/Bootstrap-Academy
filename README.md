@@ -35,25 +35,18 @@ We offer contributors the opportunity to earn payments through our bounty system
 
 ### Earning Real Money
 
-If you are eligible to create invoices and have registered your business, you may opt to receive your bounty in real money. In this case, the bounty amount is considered in Euro-Cents.
-You have to contact me first and I have to promise the amount before you start at hallo@bootstrap.academy.
+If you are eligible to create invoices(!) and have registered your business, you may opt to receive your bounty in real money. In this case, the bounty amount is considered in Euro-Cents. A bounty of "500" is equal to 500 cents or 5€.
+You have to contact me first and I have to promise the amount before you start at hallo@bootstrap.academy. However,it is possible, that you reserve the ticket for yourself, while waiting for my response. I will answer in a first come first served manner. You may not receive an answer at all. This is because I promised someone else, but I cannot be sure, that the person will actually take care. I might come back to you.
 
 #### Conditions for Real Money Payments
 
 - **Budget Availability**: Real money payments are subject to budget availability. 
-- **Invoice Requirement**: Contributors must provide a valid invoice to receive payment.
-- **Acknowledgement**: Cedric Mössner will need to accept your offer first. This will result in a change here and an assigned ticket.
+- **Invoice Requirement**: Contributors must provide a valid invoice to receive payment. You may have that invoice to me as soon as the PR is approved.
+- **Acknowledgement**: Cedric Mössner will need to accept your offer first.
 
 ## Bounty Availability
 
-Below is a table indicating the current status of bounties:
-
-| Bounty Status    | Amount (Euro-Cents) |
-| ---------------- | ------------------- |
-| Bounty Available | 0                   |
-| Bounty Promised  | 0                   |
-
-> **Note**: The table is regularly updated to reflect the current budget situation. Please check back for the latest information.
+From this day on (21st of January,2024) until further notice here, every ticket with priority High and status Todo is available for real money bounty. You may contact me for this.
 
 ## Deductions
 
