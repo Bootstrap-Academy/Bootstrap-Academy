@@ -46,7 +46,7 @@ You have to contact me first and I have to promise the amount before you start a
 
 ## Bounty Availability
 
-From this day on (21st of January, 2024) until further notice here, every ticket with priority `High` and status `Todo` is available for real money bounty. You may contact me for this.
+From this day on (21st of January, 2024) until further notice here, every ticket with priority "High" and status "Todo" is available for real money bounty. You may contact me for this.
 
 ## Deductions
 
