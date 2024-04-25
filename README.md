@@ -46,11 +46,11 @@ You have to contact me first and I have to promise the amount before you start a
 
 ## Bounty Availability
 
-From this day on (21st of January,2024) until further notice here, every ticket with priority High and status Todo is available for real money bounty. You may contact me for this.
+From this day on (21st of January, 2024) until further notice here, every ticket with priority "High" and status "Todo" is available for real money bounty. You may contact me for this.
 
 ## Deductions
 
-To avoid submissions with bad code which result in high review efforts for us, every time you commit gets rejected we will reduce the bounty by 2500.
+To avoid submissions with bad code which result in high review efforts for us, every time your commit gets rejected we will reduce the bounty by 2500.
 
 ## Contact
 If you have any questions, please feel free to [create a new discussion](https://github.com/orgs/Bootstrap-Academy/discussions/new/choose) here on GitHub, or contact us via email (hallo@bootstrap.academy) or Discord (https://the-morpheus.de/discord.html).
