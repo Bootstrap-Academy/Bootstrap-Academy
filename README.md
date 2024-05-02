@@ -13,6 +13,7 @@ This repository is primarily used to organize bug reports, feature requests and 
 | [jobs-ms](https://github.com/Bootstrap-Academy/jobs-ms) | The official jobs microservice of Bootstrap Academy | Python / FastAPI |
 | [events-ms](https://github.com/Bootstrap-Academy/events-ms) | The official events microservice of Bootstrap Academy | Python / FastAPI |
 | [challenges-ms](https://github.com/Bootstrap-Academy/challenges-ms) | The official challenges microservice of Bootstrap Academy | Rust / Poem |
+| [infrastructure](https://github.com/Bootstrap-Academy/infrastructure) | The NixOS server configuration for Bootstrap Academy | Nix / NixOS |
 
 ## Production Instance
 The public production instance is available on https://bootstrap.academy/.
