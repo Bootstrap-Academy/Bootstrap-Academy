@@ -37,21 +37,26 @@ We offer contributors the opportunity to earn payments through our bounty system
 ### Earning Real Money
 
 If you are eligible to create invoices(!) and have registered your business, you may opt to receive your bounty in real money. In this case, the bounty amount is considered in Euro-Cents. A bounty of "500" is equal to 500 cents or 5€.
-You have to contact me first and I have to promise the amount before you start at hallo@bootstrap.academy. However,it is possible, that you reserve the ticket for yourself, while waiting for my response. I will answer in a first come first served manner. You may not receive an answer at all. This is because I promised someone else, but I cannot be sure, that the person will actually take care. I might come back to you.
+You have to be assigned to the ticket first. For that, please comment on the ticket. You may not receive an answer at all. This is because I promised someone else, but I cannot be sure, that the person will actually take care. I might come back to you.
 
 #### Conditions for Real Money Payments
 
-- **Budget Availability**: Real money payments are subject to budget availability. 
-- **Invoice Requirement**: Contributors must provide a valid invoice to receive payment. You may have that invoice to me as soon as the PR is approved.
-- **Acknowledgement**: Cedric Mössner will need to accept your offer first.
+- **Budget Availability**: Real money payments are subject to budget availability and change. At the moment ALL tickets, that I assign and that are "TODO" can be paid out. 
+- **Invoice Requirement**: Contributors must provide a valid invoice to receive payment. You may sent that invoice to me as soon as the PR is approved. Please address the invoice at Cedric Mössner
+c/o RA Matutis
+Berliner Straße 57
+14467 Potsdam
+Umsatzsteuer-Identifikationsnummer DE327206699
+Send it via Mail to kontakt@the-morpheus.de
+- **Acknowledgement**: Cedric Mössner will need to accept your offer first. I will do this by assigning you to a ticket.
 
 ## Bounty Availability
 
-From this day on (21st of January, 2024) until further notice here, every ticket with priority "High" and status "Todo" is available for real money bounty. You may contact me for this.
+From this day on (22nd of Oct, 2024) until further notice here, every ticket with status "Todo" is available for real money bounty. 
 
 ## Deductions
 
 To avoid submissions with bad code which result in high review efforts for us, every time your commit gets rejected we will reduce the bounty by 2500.
 
 ## Contact
-If you have any questions, please feel free to [create a new discussion](https://github.com/orgs/Bootstrap-Academy/discussions/new/choose) here on GitHub, or contact us via email (hallo@bootstrap.academy) or Discord (https://the-morpheus.de/discord.html).
+If you have any questions, please feel free to [create a new discussion](https://github.com/orgs/Bootstrap-Academy/discussions/new/choose) here on GitHub, or contact us via email (hallo@bootstrap.academy).
