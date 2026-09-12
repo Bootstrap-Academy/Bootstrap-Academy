@@ -1,5 +1,5 @@
 name: Feature Request
-description: Suggest an idea for this project
+description: Suggest an improvement to Bootstrap Academy
 labels: ["enhancement"]
 projects: []
 assignees: []
@@ -7,18 +7,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this feature request! Although the primary language of this project is english, please feel free to use german, if you prefer.
-  - type: input
-    id: username_or_email
-    attributes:
-      label: Bootstrap Academy username
-      description: Please enter your username or email address of your Bootstrap Academy account!
-    validations:
-      required: false
+        Thanks for your suggestion! English and German are both welcome.
+
+        This suggestion is public. Leave out personal details and hide private information in screenshots.
+        We use your feedback to improve the platform. For a personal reply, contact us by [email](https://bootstrap.academy/docs/imprint).
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: Please describe the feature/enhancement you would like to have implemented as precisely as possible.
+      label: What would you like to improve?
+      description: How would your idea help you learn?
     validations:
       required: true
