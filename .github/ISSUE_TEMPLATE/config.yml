@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Discord
-    url: "https://the-morpheus.de/discord.html"
-    about: "Join the Discord server of The Morpheus Tutorials."
-  - name: Bootstrap Academy
-    url: "https://bootstrap.academy/contact"
-    about: "Go to https://bootstrap.academy/contact for information on how to contact us."
+  - name: Private account or security contact
+    url: "https://bootstrap.academy/docs/imprint"
+    about: "Use the email address in our imprint for account questions, deletion requests, and confidential security reports."
+  - name: Feedback on Bootstrap Academy
+    url: "https://bootstrap.academy/"
+    about: "Report a bug or suggest an idea through the public feedback form on our website."
