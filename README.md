@@ -26,6 +26,12 @@ There is also a public test instance that can be used for development and testin
 
 If you need an admin account to develop or test a feature, ping @Defelo on GitHub or Discord.
 
+## License
+
+Copyright (C) 2023–2026 Cedric Mössner
+
+This project is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See [`LICENSE`](LICENSE) for the full license text.
+
 
 # Contributor Payments
 
